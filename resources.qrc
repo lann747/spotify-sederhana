@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>logo.png</file>
+        <file>home.png</file>
+        <file>playlist.png</file>
+        <file>Frame 604.png</file>
+        <file>Frame 626.png</file>
+        <file>Frame 644.png</file>
+        <file>playlist2.png</file>
+        <file>play.png</file>
+    </qresource>
+</RCC>
