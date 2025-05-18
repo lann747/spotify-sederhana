@@ -41,13 +41,13 @@ cd spotify-sederhana
 ```
 
 2. Buka proyek di Qt Creator:
--Buka file Spotify.pro menggunakan Qt Creator.
+- Buka file Spotify.pro menggunakan Qt Creator.
 
 3. Build dan jalankan:
--Klik tombol "Run" di Qt Creator untuk membangun dan menjalankan aplikasi.
+- Klik tombol "Run" di Qt Creator untuk membangun dan menjalankan aplikasi.
 
-4. Login 
--Login menggunakan username: 'admin' & password: '123'
+4. Login:
+- Login menggunakan username: 'admin' & password: '123'
 
 ---
 
