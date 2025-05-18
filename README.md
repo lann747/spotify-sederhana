@@ -49,6 +49,8 @@ cd spotify-sederhana
 4. Login 
 -Login menggunakan username: 'admin' & password: '123'
 
+---
+
 ## 🗂️ Struktur Proyek
 spotify-sederhana/
 ├── build/           
@@ -73,12 +75,16 @@ spotify-sederhana/
 ├── user.cpp                       
 ├── user.h
 ├── user.ui                        
-└── README.md                       
+└── README.md  
+
+---
 
 ## 📷 Cuplikan Layar
 ![image1](img/image1.png)
 ![image2](img/image2.png)
 ![image3](img/image3.png)
+
+---
 
 ## 👤 Dibuat oleh
 Lantera Meunasah (lann747)
