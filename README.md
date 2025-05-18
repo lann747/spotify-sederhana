@@ -38,3 +38,48 @@
 ```bash
 git clone https://github.com/lann747/spotify-sederhana.git
 cd spotify-sederhana
+```
+
+2. Buka proyek di Qt Creator:
+-Buka file Spotify.pro menggunakan Qt Creator.
+
+3. Build dan jalankan:
+-Klik tombol "Run" di Qt Creator untuk membangun dan menjalankan aplikasi.
+
+4. Login 
+-Login menggunakan username: 'admin' & password: '123'
+
+## 🗂️ Struktur Proyek
+spotify-sederhana/
+├── build/                          # Folder build (dihasilkan oleh Qt Creator)
+├── Frame 604.png                   # Cuplikan layar aplikasi
+├── Frame 626.png                   # Cuplikan layar aplikasi
+├── Frame 644.png                   # Cuplikan layar aplikasi
+├── Spotify.pro                     # File proyek Qt
+├── Spotify.pro.user                # Konfigurasi pengguna Qt Creator
+├── admin.cpp                       # Logika untuk antarmuka admin
+├── admin.h
+├── admin.ui                        # Desain UI untuk admin
+├── home.png                        # Ikon untuk tombol home
+├── logo.png                        # Logo aplikasi
+├── main.cpp                        # Entry point aplikasi
+├── mainwindow.cpp                  # Logika untuk jendela utama
+├── mainwindow.h
+├── mainwindow.ui                   # Desain UI untuk jendela utama
+├── play.png                        # Ikon tombol play
+├── playlist.png                    # Ikon playlist
+├── playlist2.png                   # Ikon playlist alternatif
+├── resources.qrc                   # File resource Qt
+├── user.cpp                        # Logika untuk antarmuka pengguna
+├── user.h
+├── user.ui                         # Desain UI untuk pengguna
+└── README.md                       # Dokumentasi proyek
+
+## 📷 Cuplikan Layar
+![image1](img/image1)
+![image2](img/image2)
+![image3](img/image3)
+
+## 👤 Dibuat oleh
+Lantera Meunasah (lann747)
+
