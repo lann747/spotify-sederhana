@@ -76,9 +76,9 @@ spotify-sederhana/
 └── README.md                       # Dokumentasi proyek
 
 ## 📷 Cuplikan Layar
-![image1](img/image1)
-![image2](img/image2)
-![image3](img/image3)
+![image1](img/image1.png)
+![image2](img/image2.png)
+![image3](img/image3.png)
 
 ## 👤 Dibuat oleh
 Lantera Meunasah (lann747)
