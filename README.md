@@ -51,29 +51,29 @@ cd spotify-sederhana
 
 ## 🗂️ Struktur Proyek
 spotify-sederhana/
-├── build/                          # Folder build (dihasilkan oleh Qt Creator)
-├── Frame 604.png                   # Cuplikan layar aplikasi
-├── Frame 626.png                   # Cuplikan layar aplikasi
-├── Frame 644.png                   # Cuplikan layar aplikasi
-├── Spotify.pro                     # File proyek Qt
-├── Spotify.pro.user                # Konfigurasi pengguna Qt Creator
-├── admin.cpp                       # Logika untuk antarmuka admin
+├── build/           
+├── Frame 604.png                 
+├── Frame 626.png                  
+├── Frame 644.png                   
+├── Spotify.pro                     
+├── Spotify.pro.user               
+├── admin.cpp                       
 ├── admin.h
-├── admin.ui                        # Desain UI untuk admin
-├── home.png                        # Ikon untuk tombol home
-├── logo.png                        # Logo aplikasi
-├── main.cpp                        # Entry point aplikasi
-├── mainwindow.cpp                  # Logika untuk jendela utama
+├── admin.ui                        
+├── home.png                        
+├── logo.png                     
+├── main.cpp                        
+├── mainwindow.cpp                 
 ├── mainwindow.h
-├── mainwindow.ui                   # Desain UI untuk jendela utama
-├── play.png                        # Ikon tombol play
-├── playlist.png                    # Ikon playlist
-├── playlist2.png                   # Ikon playlist alternatif
-├── resources.qrc                   # File resource Qt
-├── user.cpp                        # Logika untuk antarmuka pengguna
+├── mainwindow.ui                  
+├── play.png                      
+├── playlist.png                 
+├── playlist2.png                
+├── resources.qrc               
+├── user.cpp                       
 ├── user.h
-├── user.ui                         # Desain UI untuk pengguna
-└── README.md                       # Dokumentasi proyek
+├── user.ui                        
+└── README.md                       
 
 ## 📷 Cuplikan Layar
 ![image1](img/image1.png)
